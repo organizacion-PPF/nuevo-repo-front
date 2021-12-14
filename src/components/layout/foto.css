@@ -1,0 +1,9 @@
+.avatar{
+    width: 50px;
+    
+}
+
+.avatarimg{
+    border-radius: 300%;
+    justify-content: center;
+}
